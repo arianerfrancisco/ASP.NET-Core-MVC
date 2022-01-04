@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2OUQLPfd9eYTJThu4LOrXr0Bnw9hyEl7uSw8S+RiEkhypr8gfHo2GqLk+o/WFGTrMO3KImfyiGhvDK3K2wQrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ariane\\Dropbox\\Meus projetos\\ASP.NET-Core-MVC\\CRUD\\CRUD\\CRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ariane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
